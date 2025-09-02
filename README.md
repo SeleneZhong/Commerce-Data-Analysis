@@ -27,7 +27,7 @@ E-Commerce-Analysis/
 
 ## 可视化展示
 ### 交互式仪表板截图
-![Tableau Dashboard](./images/dashboard.png)
+![Tableau Dashboard](./Dashboard.jpeg)
 
 *如果您想体验交互式仪表板，可以访问此地址进入我的可视化仪表盘[Dashboard](https://prod-apnortheast-a.online.tableau.com/)。*
 
