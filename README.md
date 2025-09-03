@@ -38,7 +38,7 @@ E-Commerce-Analysis/
     git clone https://github.com/SeleneZhong/Commerce-Data-Analysis.git
     ```
     -   选项二：简单方式（直接下载）
-    -   **[下载Jupyter Notebook源码 (.ipynb文件)](./E_commerce_Data_Analysis_Selene.ipynb)**
+    -   **[下载Jupyter Notebook源码 (.ipynb文件)](./E_Commerce_Data_Analysis_Selene.ipynb)**
     -   **[下载Python 脚本源码(.py文件)](./e_commerce_data_analysis_selene.py)**
     
 2.  **运行方式**:
