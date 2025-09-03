@@ -31,19 +31,14 @@ E-Commerce-Analysis/
 *如果您想体验交互式仪表板，可以访问此地址进入我的可视化仪表盘[点击此处进入Tableau Dashboard](https://prod-apnortheast-a.online.tableau.com/t/selenezhong-d25197ef07/views/E-Commerce-Data-Analysis/Dashboard)
 ### .ipynb源码及运行结果截图
 ![E_Commerce_Data_Analysis_Selene_Preview](./E_Commerce_Data_Analysis_Selene_Preview.jpeg)
+
 ## 快速开始
-1.  **获取源代码方式**:
-    -   选项一：推荐方式（使用Git）：如果您熟悉Git，请直接克隆本项目至本地：
-    ```bash
-    git clone https://github.com/SeleneZhong/Commerce-Data-Analysis.git
-    ```
-    -   选项二：简单方式（直接下载）
+ **选项一:在 Google Colab 中直接运行**（推荐）：
+    -   [在Colab中打开Notebook](https://colab.research.google.com/drive/19DrRYiezKjfZpI0oWDQ_IUWd2zhl4lOQ?usp=sharing)
+
+  **选项二：直接下载源码并在本地环境运行——本地已配置好Python环境（安装有pandas,numpy,matplotlib库）**
     -   **[下载Jupyter Notebook源码 (.ipynb文件)](https://raw.githubusercontent.com/SeleneZhong/Commerce-Data-Analysis/main/E_Commerce_Data_Analysis_Selene.ipynb)**
     -   **[下载Python 脚本源码(.py文件)](./e_commerce_data_analysis_selene.py)**
-    
-2.  **运行方式**:
-    -   推荐在Google Colab中运行：上传 `E-Commerce-Data-Analysis.ipynb` 文件至[Google Colab](https://colab.research.google.com/) ，然后运行所有单元格即可逐步重现全部分析过程。
-    -   本地运行：如果您本地已配置好Python环境（安装有pandas,numpy,matplotlib库），也可以直接运行.ipynb或.py文件。
 
 ## 核心发现与结论
 ### 1.销售趋势
