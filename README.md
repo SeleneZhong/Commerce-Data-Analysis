@@ -20,7 +20,7 @@ E-Commerce-Analysis/
 ├── README.md                         # 项目说明（本文档）
 ├── e-commerce_analysis_Selene.ipynb  # 完整的Jupyter Notebook源码(代码+可视化图表+文字分析)
 ├── e-commerce_analysis_selene.py     # 完整的Python源码
-└── Dashboard.jpeg                    # Dashboard截图
+├──  Dashboard.jpeg                    # Dashboard截图
 └──ecommerce_clean_data.csv           # 清洗后的数据（由脚本生成）
 ```
 
