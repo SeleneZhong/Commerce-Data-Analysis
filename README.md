@@ -33,12 +33,12 @@ E-Commerce-Analysis/
 ![E_Commerce_Data_Analysis_Selene_Preview](./E_Commerce_Data_Analysis_Selene_Preview.jpeg)
 
 ## 快速开始
-### **选项一:在 Google Colab 中直接运行**（推荐）：
--   [在Colab中打开Notebook](https://colab.research.google.com/drive/19DrRYiezKjfZpI0oWDQ_IUWd2zhl4lOQ?usp=sharing)    
+### **选项一:在 Google Colab 中直接运行（推荐）**
+-   [在Colab中打开Notebook](https://colab.research.google.com/drive/19DrRYiezKjfZpI0oWDQ_IUWd2zhl4lOQ?usp=sharing)(可将代码块逐步运行，也可以一键将代码全部运行)  
 
 ### **选项二：直接下载源码并在本地环境运行——本地已配置好Python环境（安装有pandas,numpy,matplotlib库）**
--   **[下载Jupyter Notebook源码 (.ipynb文件)](https://raw.githubusercontent.com/SeleneZhong/Commerce-Data-Analysis/main/E_Commerce_Data_Analysis_Selene.ipynb)**
--   **[下载Python 脚本源码(.py文件)](./e_commerce_data_analysis_selene.py)**
+-   [下载Jupyter Notebook源码 (.ipynb文件)](https://raw.githubusercontent.com/SeleneZhong/Commerce-Data-Analysis/main/E_Commerce_Data_Analysis_Selene.ipynb)
+-   [下载Python 脚本源码(.py文件)](./e_commerce_data_analysis_selene.py)
 
 ## 核心发现与结论
 ### 1.销售趋势
