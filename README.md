@@ -18,7 +18,7 @@
 ```
 E-Commerce-Analysis/
 ├── README.md                         # 项目说明（本文档）
-├── E-commerce_Analysis_Selene.ipynb  # 完整的Jupyter Notebook源码(代码+可视化图表+文字分析)
+├── E-Commerce_Analysis_Selene.ipynb  # 完整的Jupyter Notebook源码(代码+可视化图表+文字分析)
 ├── e-commerce_analysis_selene.py     # 完整的Python源码
 ├── Dashboard.jpeg                    # Dashboard截图
 └── ecommerce_clean_data.csv          # 清洗后的数据（由脚本生成）
@@ -29,6 +29,8 @@ E-Commerce-Analysis/
 ![Tableau Dashboard](./Dashboard.jpeg)
 
 *如果您想体验交互式仪表板，可以访问此地址进入我的可视化仪表盘[点击此处进入Tableau Dashboard](https://prod-apnortheast-a.online.tableau.com/t/selenezhong-d25197ef07/views/E-Commerce-Data-Analysis/Dashboard)
+### .ipynb源码及运行结果截图
+![.ipnb](./Dashboard.jpeg)
 ## 快速开始
 1.  **获取源代码方式**:
     -   选项一：推荐方式（使用Git）：如果您熟悉Git，请直接克隆本项目至本地：
