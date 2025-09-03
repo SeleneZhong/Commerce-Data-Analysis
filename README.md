@@ -18,10 +18,10 @@
 ```
 E-Commerce-Analysis/
 ├── README.md                         # 项目说明（本文档）
-├── e-commerce_analysis_Selene.ipynb  # 完整的Jupyter Notebook源码(代码+可视化图表+文字分析)
+├── E-commerce_Analysis_Selene.ipynb  # 完整的Jupyter Notebook源码(代码+可视化图表+文字分析)
 ├── e-commerce_analysis_selene.py     # 完整的Python源码
-├──  Dashboard.jpeg                   # Dashboard截图
-└──ecommerce_clean_data.csv           # 清洗后的数据（由脚本生成）
+├── Dashboard.jpeg                    # Dashboard截图
+└── ecommerce_clean_data.csv          # 清洗后的数据（由脚本生成）
 ```
 
 ## 可视化展示
@@ -33,10 +33,11 @@ E-Commerce-Analysis/
 1.  **获取源代码方式**:
     -   选项一：推荐方式（使用Git）：如果您熟悉Git，请直接克隆本项目至本地：
     ```bash
-    git clone https://github.com/SeleneZhong/E-Commerce-Data-Analysis.git
+    git clone https://github.com/SeleneZhong/Commerce-Data-Analysis.git
     ```
     -   选项二：简单方式（直接下载）
-    -   点击页面右上角的绿色按钮 Code，在下拉菜单中选择 Download ZIP，将下载的ZIP文件解压到您电脑上的任意目录。
+    -   **[下载Jupyter Notebook源码 (.ipynb文件)](./E_commerce_Data_Analysis_Selene.ipynb)**
+    -   **[下载Python 脚本源码(.py文件)](./e_commerce_data_analysis_selene.py)**
     
 2.  **运行方式**:
     -   推荐在Google Colab中运行：上传 `E-Commerce-Data-Analysis.ipynb` 文件至[Google Colab](https://colab.research.google.com/) ，然后运行所有单元格即可逐步重现全部分析过程。
